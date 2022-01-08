@@ -450,3 +450,12 @@ header {
   display: flex;
   flex-direction: column;
 }
+
+.portfolio-page-body-link {
+  color: var(--clr-accent);
+  text-decoration: none;
+}
+
+.portfolio-page-body-link:hover {
+  opacity: 0.7;
+}
