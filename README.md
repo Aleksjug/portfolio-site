@@ -1,6 +1,3 @@
-# portfolio-site
-My Portfolio Site
-
 # About The Project
 
 My personal portfolio website built using HTML/CSS that showcases my work and information about me.
